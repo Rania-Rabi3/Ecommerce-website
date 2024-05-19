@@ -1,0 +1,25 @@
+
+.form-control{
+    width: 320px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #2b3445 ;
+    margin-top: 20px;
+}
+
+.mb-3-form-check{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.btn-btn-primary{
+    width: 320px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background-color: #2b3445;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
